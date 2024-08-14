@@ -1,6 +1,6 @@
-Olá sou Guilherme
+Olá sou **Guilherme**
 
-eu tenho 17 anos
+eu tenho 17 anos 
 
 estudo em uma escola em tempo integral
 
@@ -15,3 +15,5 @@ adoro assistir séries como Yellowstone.
 adoro a professora Rosana, principalmente quando ela grita: "Para que eu vou gritar !!!"
 
 além do professor Marcelo quando ele fala bem alto: "ESTÁ MUITO BARULHO !!!"
+
+![](https://media1.tenor.com/m/Ymm6sfYCe3IAAAAC/ram-trucks-ram.gif)
